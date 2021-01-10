@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["eedmond@uccs.edu"]
 
   spec.summary       = "This gem should pick what I should eat."
-  spec.description   = "This gem picks what I should eat from edamama's fresh picks recipes using their api."
+  spec.description   = "This gem picks what I should eat from edamam's fresh picks recipes using their api."
   spec.homepage      = "https://github.com/Ethan-Edmond/what_should_i_eat"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
